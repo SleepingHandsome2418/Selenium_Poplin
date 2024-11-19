@@ -44,7 +44,7 @@ Before you begin, make sure you have the following software installed:
 #### 1. Clone this repository to your local machine using:
 
 ```bash
-git clone https://github.com/andwaee/selenium-automation-with-java.git
+git clone https://github.com/SleepingHandsome2418/Selenium_Poplin.git
 ```
 
 #### 2. Open the project in IntelliJ IDEA:
